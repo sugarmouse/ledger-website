@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ledger-website/static/css/main.27d46444.chunk.css",
+    "main.js": "/ledger-website/static/js/main.de4c9cb4.chunk.js",
+    "main.js.map": "/ledger-website/static/js/main.de4c9cb4.chunk.js.map",
+    "runtime-main.js": "/ledger-website/static/js/runtime-main.576a826c.js",
+    "runtime-main.js.map": "/ledger-website/static/js/runtime-main.576a826c.js.map",
+    "static/js/2.389c1844.chunk.js": "/ledger-website/static/js/2.389c1844.chunk.js",
+    "static/js/2.389c1844.chunk.js.map": "/ledger-website/static/js/2.389c1844.chunk.js.map",
+    "index.html": "/ledger-website/index.html",
+    "static/css/main.27d46444.chunk.css.map": "/ledger-website/static/css/main.27d46444.chunk.css.map",
+    "static/js/2.389c1844.chunk.js.LICENSE.txt": "/ledger-website/static/js/2.389c1844.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.576a826c.js",
+    "static/js/2.389c1844.chunk.js",
+    "static/css/main.27d46444.chunk.css",
+    "static/js/main.de4c9cb4.chunk.js"
+  ]
+}
